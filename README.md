@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhu-3801&label=Profile%20views&color=0e75b6&style=flat" alt="nandhu-3801" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Nandhu-3801/Nandhu-3801/blob/main/20210708_174044.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/Nandhu-3801/Nandhu-3801/blob/main/wp4477493-arjun-reddy-wallpapers.jpg">
 
 - 🔭 I’m currently working on **Improving technical skills**
 
